@@ -10,6 +10,6 @@ class UserModel {
 
 // função que coleta todos os users
 
-    public fetchUsers() { return [];}
+    public GetUsers() {return [];}
 
 }
